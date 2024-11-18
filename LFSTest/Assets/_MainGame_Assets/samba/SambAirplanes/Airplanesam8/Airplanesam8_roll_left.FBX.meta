@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 1898e3905cac4a34d9eeb22b36716c3a
+timeCreated: 1480347607
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boeing_Object027
+    100004: boeing_Object037
+    100006: boeing_Object038
+    100008: boeing_Object039
+    100010: boeing_Object040
+    100012: boeing_Object042
+    100014: boeing_Object043
+    100016: boeing_Object045
+    100018: boeing_Object047
+    100020: boeing_Object048
+    100022: boeing_Object049
+    100024: boeing_Object050
+    100026: boeing_Object051
+    100028: boeing_Object052
+    100030: boeing_Object053
+    100032: boeing_Object054
+    100034: boeing_polySurface21
+    100036: boeing_polySurface22
+    100038: boeing_polySurface26
+    100040: boeing_polySurface28
+    100042: boeing_polySurface30
+    100044: boeing_polySurface31
+    100046: boeing_polySurface35
+    100048: boeing_polySurface39
+    100050: boeing_polySurface41
+    100052: boeing_polySurface42
+    100054: boeing_polySurface43
+    100056: boeing_polySurface44
+    100058: boeing_polySurface45
+    100060: boeing_polySurface46
+    100062: boeing_polySurface46 1
+    100064: boeing_polySurface48
+    100066: boeing_polySurface50
+    100068: boeing_polySurface52
+    100070: boeing_polySurface54
+    100072: Body1
+    100074: Body2
+    100076: F_Gear
+    100078: F_Gear_L_Cover
+    100080: F_Gear_R_Cover
+    100082: Fin
+    100084: L_Gear
+    100086: L_Gear_Cover1
+    100088: L_Gear_Cover2
+    100090: L_Jet1
+    100092: L_Jet2
+    100094: L_Tail
+    100096: L_Wing1
+    100098: L_Wing2
+    100100: L_Wing3
+    100102: L_Wing4
+    100104: R_Gear
+    100106: R_Gear_Cover1
+    100108: R_Gear_Cover2
+    100110: R_Jet1
+    100112: R_Jet2
+    100114: R_Tail
+    100116: R_Wing1
+    100118: R_Wing2
+    100120: R_Wing3
+    100122: R_Wing4
+    100124: Steel
+    100126: Steel 1
+    100128: Wheels
+    100130: Wheels1
+    100132: Wheels1 1
+    100134: Wheels2
+    100136: Wheels2 1
+    400000: //RootNode
+    400002: boeing_Object027
+    400004: boeing_Object037
+    400006: boeing_Object038
+    400008: boeing_Object039
+    400010: boeing_Object040
+    400012: boeing_Object042
+    400014: boeing_Object043
+    400016: boeing_Object045
+    400018: boeing_Object047
+    400020: boeing_Object048
+    400022: boeing_Object049
+    400024: boeing_Object050
+    400026: boeing_Object051
+    400028: boeing_Object052
+    400030: boeing_Object053
+    400032: boeing_Object054
+    400034: boeing_polySurface21
+    400036: boeing_polySurface22
+    400038: boeing_polySurface26
+    400040: boeing_polySurface28
+    400042: boeing_polySurface30
+    400044: boeing_polySurface31
+    400046: boeing_polySurface35
+    400048: boeing_polySurface39
+    400050: boeing_polySurface41
+    400052: boeing_polySurface42
+    400054: boeing_polySurface43
+    400056: boeing_polySurface44
+    400058: boeing_polySurface45
+    400060: boeing_polySurface46
+    400062: boeing_polySurface46 1
+    400064: boeing_polySurface48
+    400066: boeing_polySurface50
+    400068: boeing_polySurface52
+    400070: boeing_polySurface54
+    400072: Body1
+    400074: Body2
+    400076: F_Gear
+    400078: F_Gear_L_Cover
+    400080: F_Gear_R_Cover
+    400082: Fin
+    400084: L_Gear
+    400086: L_Gear_Cover1
+    400088: L_Gear_Cover2
+    400090: L_Jet1
+    400092: L_Jet2
+    400094: L_Tail
+    400096: L_Wing1
+    400098: L_Wing2
+    400100: L_Wing3
+    400102: L_Wing4
+    400104: R_Gear
+    400106: R_Gear_Cover1
+    400108: R_Gear_Cover2
+    400110: R_Jet1
+    400112: R_Jet2
+    400114: R_Tail
+    400116: R_Wing1
+    400118: R_Wing2
+    400120: R_Wing3
+    400122: R_Wing4
+    400124: Steel
+    400126: Steel 1
+    400128: Wheels
+    400130: Wheels1
+    400132: Wheels1 1
+    400134: Wheels2
+    400136: Wheels2 1
+    2300000: boeing_Object027
+    2300002: boeing_Object037
+    2300004: boeing_Object038
+    2300006: boeing_Object039
+    2300008: boeing_Object040
+    2300010: boeing_Object042
+    2300012: boeing_Object043
+    2300014: boeing_Object045
+    2300016: boeing_Object047
+    2300018: boeing_Object048
+    2300020: boeing_Object049
+    2300022: boeing_Object050
+    2300024: boeing_Object051
+    2300026: boeing_Object052
+    2300028: boeing_Object053
+    2300030: boeing_Object054
+    2300032: boeing_polySurface21
+    2300034: boeing_polySurface22
+    2300036: boeing_polySurface26
+    2300038: boeing_polySurface28
+    2300040: boeing_polySurface30
+    2300042: boeing_polySurface31
+    2300044: boeing_polySurface35
+    2300046: boeing_polySurface39
+    2300048: boeing_polySurface41
+    2300050: boeing_polySurface42
+    2300052: boeing_polySurface43
+    2300054: boeing_polySurface44
+    2300056: boeing_polySurface45
+    2300058: boeing_polySurface46
+    2300060: boeing_polySurface46 1
+    2300062: boeing_polySurface48
+    2300064: boeing_polySurface50
+    2300066: boeing_polySurface52
+    2300068: boeing_polySurface54
+    2300070: Body1
+    2300072: Body2
+    2300074: F_Gear
+    2300076: F_Gear_L_Cover
+    2300078: F_Gear_R_Cover
+    2300080: Fin
+    2300082: L_Gear
+    2300084: L_Gear_Cover1
+    2300086: L_Gear_Cover2
+    2300088: L_Jet1
+    2300090: L_Jet2
+    2300092: L_Tail
+    2300094: L_Wing1
+    2300096: L_Wing2
+    2300098: L_Wing3
+    2300100: L_Wing4
+    2300102: R_Gear
+    2300104: R_Gear_Cover1
+    2300106: R_Gear_Cover2
+    2300108: R_Jet1
+    2300110: R_Jet2
+    2300112: R_Tail
+    2300114: R_Wing1
+    2300116: R_Wing2
+    2300118: R_Wing3
+    2300120: R_Wing4
+    2300122: Steel
+    2300124: Steel 1
+    2300126: Wheels
+    2300128: Wheels1
+    2300130: Wheels1 1
+    2300132: Wheels2
+    2300134: Wheels2 1
+    3300000: boeing_Object027
+    3300002: boeing_Object037
+    3300004: boeing_Object038
+    3300006: boeing_Object039
+    3300008: boeing_Object040
+    3300010: boeing_Object042
+    3300012: boeing_Object043
+    3300014: boeing_Object045
+    3300016: boeing_Object047
+    3300018: boeing_Object048
+    3300020: boeing_Object049
+    3300022: boeing_Object050
+    3300024: boeing_Object051
+    3300026: boeing_Object052
+    3300028: boeing_Object053
+    3300030: boeing_Object054
+    3300032: boeing_polySurface21
+    3300034: boeing_polySurface22
+    3300036: boeing_polySurface26
+    3300038: boeing_polySurface28
+    3300040: boeing_polySurface30
+    3300042: boeing_polySurface31
+    3300044: boeing_polySurface35
+    3300046: boeing_polySurface39
+    3300048: boeing_polySurface41
+    3300050: boeing_polySurface42
+    3300052: boeing_polySurface43
+    3300054: boeing_polySurface44
+    3300056: boeing_polySurface45
+    3300058: boeing_polySurface46
+    3300060: boeing_polySurface46 1
+    3300062: boeing_polySurface48
+    3300064: boeing_polySurface50
+    3300066: boeing_polySurface52
+    3300068: boeing_polySurface54
+    3300070: Body1
+    3300072: Body2
+    3300074: F_Gear
+    3300076: F_Gear_L_Cover
+    3300078: F_Gear_R_Cover
+    3300080: Fin
+    3300082: L_Gear
+    3300084: L_Gear_Cover1
+    3300086: L_Gear_Cover2
+    3300088: L_Jet1
+    3300090: L_Jet2
+    3300092: L_Tail
+    3300094: L_Wing1
+    3300096: L_Wing2
+    3300098: L_Wing3
+    3300100: L_Wing4
+    3300102: R_Gear
+    3300104: R_Gear_Cover1
+    3300106: R_Gear_Cover2
+    3300108: R_Jet1
+    3300110: R_Jet2
+    3300112: R_Tail
+    3300114: R_Wing1
+    3300116: R_Wing2
+    3300118: R_Wing3
+    3300120: R_Wing4
+    3300122: Steel
+    3300124: Steel 1
+    3300126: Wheels
+    3300128: Wheels1
+    3300130: Wheels1 1
+    3300132: Wheels2
+    3300134: Wheels2 1
+    4300000: boeing_polySurface39
+    4300002: boeing_polySurface30
+    4300004: boeing_polySurface42
+    4300006: boeing_polySurface41
+    4300008: boeing_polySurface54
+    4300010: boeing_polySurface35
+    4300012: boeing_polySurface43
+    4300014: boeing_polySurface44
+    4300016: boeing_Object027
+    4300018: boeing_Object037
+    4300020: boeing_Object038
+    4300022: boeing_Object039
+    4300024: boeing_Object040
+    4300026: boeing_Object047
+    4300028: boeing_Object048
+    4300030: boeing_Object049
+    4300032: boeing_Object050
+    4300034: boeing_Object051
+    4300036: boeing_Object052
+    4300038: boeing_Object053
+    4300040: boeing_Object054
+    4300042: boeing_polySurface26
+    4300044: boeing_polySurface28
+    4300046: boeing_polySurface31
+    4300048: boeing_polySurface50
+    4300050: boeing_polySurface52
+    4300052: boeing_polySurface48
+    4300054: boeing_polySurface46
+    4300056: boeing_polySurface22
+    4300058: boeing_polySurface21
+    4300060: boeing_polySurface45
+    4300062: boeing_polySurface46
+    4300064: boeing_Object042
+    4300066: boeing_Object045
+    4300068: boeing_Object043
+    4300070: R_Gear
+    4300072: Steel
+    4300074: Wheels1
+    4300076: Wheels2
+    4300078: L_Gear
+    4300080: Steel
+    4300082: Wheels1
+    4300084: Wheels2
+    4300086: Body1
+    4300088: Body2
+    4300090: R_Wing1
+    4300092: R_Wing2
+    4300094: R_Wing3
+    4300096: R_Wing4
+    4300098: L_Wing1
+    4300100: L_Wing2
+    4300102: L_Wing3
+    4300104: L_Wing4
+    4300106: L_Jet1
+    4300108: L_Jet2
+    4300110: R_Jet1
+    4300112: R_Jet2
+    4300114: F_Gear
+    4300116: Wheels
+    4300118: R_Gear_Cover1
+    4300120: R_Gear_Cover2
+    4300122: L_Gear_Cover1
+    4300124: L_Gear_Cover2
+    4300126: F_Gear_L_Cover
+    4300128: F_Gear_R_Cover
+    4300130: Fin
+    4300132: L_Tail
+    4300134: R_Tail
+    7400000: roll_left
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: roll_left
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 91
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body1
+        weight: 1
+      - path: Body2
+        weight: 1
+      - path: F_Gear
+        weight: 1
+      - path: F_Gear/Wheels
+        weight: 1
+      - path: F_Gear_L_Cover
+        weight: 1
+      - path: F_Gear_R_Cover
+        weight: 1
+      - path: Fin
+        weight: 1
+      - path: L_Gear
+        weight: 1
+      - path: L_Gear/Steel
+        weight: 1
+      - path: L_Gear/Wheels1
+        weight: 1
+      - path: L_Gear/Wheels2
+        weight: 1
+      - path: L_Gear_Cover1
+        weight: 1
+      - path: L_Gear_Cover1/L_Gear_Cover2
+        weight: 1
+      - path: L_Jet1
+        weight: 1
+      - path: L_Jet2
+        weight: 1
+      - path: L_Tail
+        weight: 1
+      - path: L_Wing1
+        weight: 1
+      - path: L_Wing2
+        weight: 1
+      - path: L_Wing3
+        weight: 1
+      - path: L_Wing4
+        weight: 1
+      - path: R_Gear
+        weight: 1
+      - path: R_Gear/Steel 1
+        weight: 1
+      - path: R_Gear/Wheels1 1
+        weight: 1
+      - path: R_Gear/Wheels2 1
+        weight: 1
+      - path: R_Gear_Cover1
+        weight: 1
+      - path: R_Gear_Cover1/R_Gear_Cover2
+        weight: 1
+      - path: R_Jet1
+        weight: 1
+      - path: R_Jet2
+        weight: 1
+      - path: R_Tail
+        weight: 1
+      - path: R_Wing1
+        weight: 1
+      - path: R_Wing2
+        weight: 1
+      - path: R_Wing3
+        weight: 1
+      - path: R_Wing4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

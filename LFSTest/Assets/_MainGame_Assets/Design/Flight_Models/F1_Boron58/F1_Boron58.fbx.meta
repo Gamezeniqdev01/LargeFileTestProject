@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 812dae6e67d2e714791ade361d768d71
+timeCreated: 1463748625
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Wing
+    100002: Boron58_Body
+    100004: //RootNode
+    100006: Front_Tyre
+    100008: Front_Tyre_Door1
+    100010: Front_Tyre_Door2
+    100012: Front_Tyre_Grip
+    100014: Left_BackWing
+    100016: Left_Prop_Circle
+    100018: Left_Propeller
+    100020: Left_Tyre
+    100022: Left_Tyre_Door
+    100024: Left_Tyre_Grip
+    100026: Left_Wing1
+    100028: Left_Wing2
+    100030: Right_BackWing
+    100032: Right_Prop_Circle
+    100034: Right_Propeller
+    100036: Right_Tyre
+    100038: Right_Tyre_Door
+    100040: Right_Tyre_Grip
+    100042: Right_Wing1
+    100044: Right_Wing2
+    100046: Steer_Control1
+    100048: Steer_Control2
+    400000: Back_Wing
+    400002: Boron58_Body
+    400004: //RootNode
+    400006: Front_Tyre
+    400008: Front_Tyre_Door1
+    400010: Front_Tyre_Door2
+    400012: Front_Tyre_Grip
+    400014: Left_BackWing
+    400016: Left_Prop_Circle
+    400018: Left_Propeller
+    400020: Left_Tyre
+    400022: Left_Tyre_Door
+    400024: Left_Tyre_Grip
+    400026: Left_Wing1
+    400028: Left_Wing2
+    400030: Right_BackWing
+    400032: Right_Prop_Circle
+    400034: Right_Propeller
+    400036: Right_Tyre
+    400038: Right_Tyre_Door
+    400040: Right_Tyre_Grip
+    400042: Right_Wing1
+    400044: Right_Wing2
+    400046: Steer_Control1
+    400048: Steer_Control2
+    2300000: Back_Wing
+    2300002: Boron58_Body
+    2300004: Front_Tyre
+    2300006: Front_Tyre_Door1
+    2300008: Front_Tyre_Door2
+    2300010: Front_Tyre_Grip
+    2300012: Left_BackWing
+    2300014: Left_Prop_Circle
+    2300016: Left_Propeller
+    2300018: Left_Tyre
+    2300020: Left_Tyre_Door
+    2300022: Left_Tyre_Grip
+    2300024: Left_Wing1
+    2300026: Left_Wing2
+    2300028: Right_BackWing
+    2300030: Right_Prop_Circle
+    2300032: Right_Propeller
+    2300034: Right_Tyre
+    2300036: Right_Tyre_Door
+    2300038: Right_Tyre_Grip
+    2300040: Right_Wing1
+    2300042: Right_Wing2
+    2300044: Steer_Control1
+    2300046: Steer_Control2
+    3300000: Back_Wing
+    3300002: Boron58_Body
+    3300004: Front_Tyre
+    3300006: Front_Tyre_Door1
+    3300008: Front_Tyre_Door2
+    3300010: Front_Tyre_Grip
+    3300012: Left_BackWing
+    3300014: Left_Prop_Circle
+    3300016: Left_Propeller
+    3300018: Left_Tyre
+    3300020: Left_Tyre_Door
+    3300022: Left_Tyre_Grip
+    3300024: Left_Wing1
+    3300026: Left_Wing2
+    3300028: Right_BackWing
+    3300030: Right_Prop_Circle
+    3300032: Right_Propeller
+    3300034: Right_Tyre
+    3300036: Right_Tyre_Door
+    3300038: Right_Tyre_Grip
+    3300040: Right_Wing1
+    3300042: Right_Wing2
+    3300044: Steer_Control1
+    3300046: Steer_Control2
+    4300000: Right_Tyre_Door
+    4300002: Left_Tyre_Door
+    4300004: Right_Prop_Circle
+    4300006: Right_BackWing
+    4300008: Right_Wing2
+    4300010: Right_Wing1
+    4300012: Front_Tyre_Door2
+    4300014: Left_Wing2
+    4300016: Front_Tyre_Door1
+    4300018: Left_Prop_Circle
+    4300020: Left_Wing1
+    4300022: Left_BackWing
+    4300024: Back_Wing
+    4300026: Left_Propeller
+    4300028: Right_Propeller
+    4300030: Left_Tyre_Grip
+    4300032: Left_Tyre
+    4300034: Right_Tyre_Grip
+    4300036: Right_Tyre
+    4300038: Front_Tyre_Grip
+    4300040: Front_Tyre
+    4300042: Steer_Control1
+    4300044: Steer_Control2
+    4300046: Boron58_Body
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

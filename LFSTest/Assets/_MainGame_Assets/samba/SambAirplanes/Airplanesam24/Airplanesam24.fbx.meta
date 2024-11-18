@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 18479c4cc3e6347488db666d3c0e3c9d
+timeCreated: 1492782315
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B_L_Gear1
+    100004: B_L_Gear2
+    100006: B_L_Gear3
+    100008: B_L_Wheel
+    100010: B_R_Gear1
+    100012: B_R_Gear2
+    100014: B_R_Gear3
+    100016: B_R_Wheel
+    100018: Body
+    100020: F_Gear
+    100022: F_Gear_Cover1
+    100024: F_Gear_Cover2
+    100026: F_Wheel
+    100028: Fin
+    100030: L_Tail
+    100032: L_Wing1
+    100034: L_Wing2
+    100036: L_Wing3
+    100038: R_Tail
+    100040: R_Wing1
+    100042: R_Wing2
+    100044: R_Wing3
+    400000: //RootNode
+    400002: B_L_Gear1
+    400004: B_L_Gear2
+    400006: B_L_Gear3
+    400008: B_L_Wheel
+    400010: B_R_Gear1
+    400012: B_R_Gear2
+    400014: B_R_Gear3
+    400016: B_R_Wheel
+    400018: Body
+    400020: F_Gear
+    400022: F_Gear_Cover1
+    400024: F_Gear_Cover2
+    400026: F_Wheel
+    400028: Fin
+    400030: L_Tail
+    400032: L_Wing1
+    400034: L_Wing2
+    400036: L_Wing3
+    400038: R_Tail
+    400040: R_Wing1
+    400042: R_Wing2
+    400044: R_Wing3
+    2300000: B_L_Gear1
+    2300002: B_L_Gear2
+    2300004: B_L_Gear3
+    2300006: B_L_Wheel
+    2300008: B_R_Gear1
+    2300010: B_R_Gear2
+    2300012: B_R_Gear3
+    2300014: B_R_Wheel
+    2300016: Body
+    2300018: F_Gear
+    2300020: F_Gear_Cover1
+    2300022: F_Gear_Cover2
+    2300024: F_Wheel
+    2300026: Fin
+    2300028: L_Tail
+    2300030: L_Wing1
+    2300032: L_Wing2
+    2300034: L_Wing3
+    2300036: R_Tail
+    2300038: R_Wing1
+    2300040: R_Wing2
+    2300042: R_Wing3
+    3300000: B_L_Gear1
+    3300002: B_L_Gear2
+    3300004: B_L_Gear3
+    3300006: B_L_Wheel
+    3300008: B_R_Gear1
+    3300010: B_R_Gear2
+    3300012: B_R_Gear3
+    3300014: B_R_Wheel
+    3300016: Body
+    3300018: F_Gear
+    3300020: F_Gear_Cover1
+    3300022: F_Gear_Cover2
+    3300024: F_Wheel
+    3300026: Fin
+    3300028: L_Tail
+    3300030: L_Wing1
+    3300032: L_Wing2
+    3300034: L_Wing3
+    3300036: R_Tail
+    3300038: R_Wing1
+    3300040: R_Wing2
+    3300042: R_Wing3
+    4300000: Body
+    4300002: F_Gear
+    4300004: F_Wheel
+    4300006: F_Gear_Cover1
+    4300008: F_Gear_Cover2
+    4300010: B_R_Gear1
+    4300012: B_R_Wheel
+    4300014: B_R_Gear3
+    4300016: B_R_Gear2
+    4300018: B_L_Gear1
+    4300020: B_L_Wheel
+    4300022: B_L_Gear3
+    4300024: B_L_Gear2
+    4300026: L_Wing1
+    4300028: L_Wing2
+    4300030: L_Wing3
+    4300032: R_Wing1
+    4300034: R_Wing2
+    4300036: R_Wing3
+    4300038: L_Tail
+    4300040: R_Tail
+    4300042: Fin
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

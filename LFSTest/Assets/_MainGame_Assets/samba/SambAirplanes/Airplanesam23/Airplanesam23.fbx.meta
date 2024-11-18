@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 6acf3641bc24fd2478d104fa5acda8fc
+timeCreated: 1492781919
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B_L_Gear
+    100004: B_L_Gear_Cover
+    100006: B_L_Wheel
+    100008: B_R_Gear
+    100010: B_R_Gear_Cover
+    100012: B_R_Wheel
+    100014: Body
+    100016: Engine
+    100018: F_Gear
+    100020: F_Gear_Cover
+    100022: F_Wheel
+    100024: L_Rocket1
+    100026: L_Rocket2
+    100028: L_Tail
+    100030: L_Wing
+    100032: R_Rocket1
+    100034: R_Rocket2
+    100036: R_Tail
+    100038: R_Wing
+    400000: //RootNode
+    400002: B_L_Gear
+    400004: B_L_Gear_Cover
+    400006: B_L_Wheel
+    400008: B_R_Gear
+    400010: B_R_Gear_Cover
+    400012: B_R_Wheel
+    400014: Body
+    400016: Engine
+    400018: F_Gear
+    400020: F_Gear_Cover
+    400022: F_Wheel
+    400024: L_Rocket1
+    400026: L_Rocket2
+    400028: L_Tail
+    400030: L_Wing
+    400032: R_Rocket1
+    400034: R_Rocket2
+    400036: R_Tail
+    400038: R_Wing
+    2300000: B_L_Gear
+    2300002: B_L_Gear_Cover
+    2300004: B_L_Wheel
+    2300006: B_R_Gear
+    2300008: B_R_Gear_Cover
+    2300010: B_R_Wheel
+    2300012: Body
+    2300014: Engine
+    2300016: F_Gear
+    2300018: F_Gear_Cover
+    2300020: F_Wheel
+    2300022: L_Rocket1
+    2300024: L_Rocket2
+    2300026: L_Tail
+    2300028: L_Wing
+    2300030: R_Rocket1
+    2300032: R_Rocket2
+    2300034: R_Tail
+    2300036: R_Wing
+    3300000: B_L_Gear
+    3300002: B_L_Gear_Cover
+    3300004: B_L_Wheel
+    3300006: B_R_Gear
+    3300008: B_R_Gear_Cover
+    3300010: B_R_Wheel
+    3300012: Body
+    3300014: Engine
+    3300016: F_Gear
+    3300018: F_Gear_Cover
+    3300020: F_Wheel
+    3300022: L_Rocket1
+    3300024: L_Rocket2
+    3300026: L_Tail
+    3300028: L_Wing
+    3300030: R_Rocket1
+    3300032: R_Rocket2
+    3300034: R_Tail
+    3300036: R_Wing
+    4300000: Body
+    4300002: F_Gear
+    4300004: F_Wheel
+    4300006: F_Gear_Cover
+    4300008: B_R_Gear_Cover
+    4300010: B_R_Gear
+    4300012: B_R_Wheel
+    4300014: B_L_Gear_Cover
+    4300016: B_L_Gear
+    4300018: B_L_Wheel
+    4300020: R_Rocket1
+    4300022: R_Rocket2
+    4300024: L_Rocket1
+    4300026: L_Rocket2
+    4300028: L_Tail
+    4300030: R_Tail
+    4300032: L_Wing
+    4300034: R_Wing
+    4300036: Engine
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

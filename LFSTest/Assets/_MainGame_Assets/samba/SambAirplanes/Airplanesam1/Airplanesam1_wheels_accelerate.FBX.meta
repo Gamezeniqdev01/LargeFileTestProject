@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 2f3e402293f5f29408ee7ba73a3c35a3
+timeCreated: 1479489914
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cessna172_Box002
+    100002: cessna172_Cylinder002
+    100004: cessna172_Object001
+    100006: cessna172_Object002
+    100008: cessna172_Object003
+    100010: cessna172_Object004
+    100012: cessna172_Object005
+    100014: cessna172_Object006
+    100016: cessna172_Object007
+    100018: cessna172_Object008
+    100020: cessna172_Object009
+    100022: cessna172_Object010
+    100024: cessna172_Object011
+    100026: cessna172_Object012
+    100028: //RootNode
+    100030: B_L_Wheel
+    100032: B_R_Wheel
+    100034: Body
+    100036: F_Wheel
+    100038: Fan
+    100040: Fin
+    100042: L_Tail
+    100044: L_Wing1
+    100046: L_Wing2
+    100048: R_Tail
+    100050: R_Wing1
+    100052: R_Wing2
+    400000: cessna172_Box002
+    400002: cessna172_Cylinder002
+    400004: cessna172_Object001
+    400006: cessna172_Object002
+    400008: cessna172_Object003
+    400010: cessna172_Object004
+    400012: cessna172_Object005
+    400014: cessna172_Object006
+    400016: cessna172_Object007
+    400018: cessna172_Object008
+    400020: cessna172_Object009
+    400022: cessna172_Object010
+    400024: cessna172_Object011
+    400026: cessna172_Object012
+    400028: //RootNode
+    400030: B_L_Wheel
+    400032: B_R_Wheel
+    400034: Body
+    400036: F_Wheel
+    400038: Fan
+    400040: Fin
+    400042: L_Tail
+    400044: L_Wing1
+    400046: L_Wing2
+    400048: R_Tail
+    400050: R_Wing1
+    400052: R_Wing2
+    2300000: cessna172_Box002
+    2300002: cessna172_Cylinder002
+    2300004: cessna172_Object001
+    2300006: cessna172_Object002
+    2300008: cessna172_Object003
+    2300010: cessna172_Object004
+    2300012: cessna172_Object005
+    2300014: cessna172_Object006
+    2300016: cessna172_Object007
+    2300018: cessna172_Object008
+    2300020: cessna172_Object009
+    2300022: cessna172_Object010
+    2300024: cessna172_Object011
+    2300026: cessna172_Object012
+    2300028: B_L_Wheel
+    2300030: B_R_Wheel
+    2300032: Body
+    2300034: F_Wheel
+    2300036: Fan
+    2300038: Fin
+    2300040: L_Tail
+    2300042: L_Wing1
+    2300044: L_Wing2
+    2300046: R_Tail
+    2300048: R_Wing1
+    2300050: R_Wing2
+    3300000: cessna172_Box002
+    3300002: cessna172_Cylinder002
+    3300004: cessna172_Object001
+    3300006: cessna172_Object002
+    3300008: cessna172_Object003
+    3300010: cessna172_Object004
+    3300012: cessna172_Object005
+    3300014: cessna172_Object006
+    3300016: cessna172_Object007
+    3300018: cessna172_Object008
+    3300020: cessna172_Object009
+    3300022: cessna172_Object010
+    3300024: cessna172_Object011
+    3300026: cessna172_Object012
+    3300028: B_L_Wheel
+    3300030: B_R_Wheel
+    3300032: Body
+    3300034: F_Wheel
+    3300036: Fan
+    3300038: Fin
+    3300040: L_Tail
+    3300042: L_Wing1
+    3300044: L_Wing2
+    3300046: R_Tail
+    3300048: R_Wing1
+    3300050: R_Wing2
+    4300000: cessna172_Box002
+    4300002: cessna172_Cylinder002
+    4300004: cessna172_Object001
+    4300006: cessna172_Object002
+    4300008: cessna172_Object003
+    4300010: cessna172_Object004
+    4300012: cessna172_Object005
+    4300014: cessna172_Object006
+    4300016: cessna172_Object007
+    4300018: cessna172_Object008
+    4300020: cessna172_Object009
+    4300022: cessna172_Object010
+    4300024: cessna172_Object011
+    4300026: cessna172_Object012
+    4300028: Fan
+    4300030: F_Wheel
+    4300032: B_L_Wheel
+    4300034: B_R_Wheel
+    4300036: L_Wing1
+    4300038: L_Wing2
+    4300040: R_Wing2
+    4300042: R_Wing1
+    4300044: L_Tail
+    4300046: R_Tail
+    4300048: Fin
+    4300050: Body
+    7400000: wheels_accelerate
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wheels_accelerate
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_L_Wheel
+        weight: 1
+      - path: B_R_Wheel
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: F_Wheel
+        weight: 1
+      - path: Fan
+        weight: 1
+      - path: Fin
+        weight: 1
+      - path: L_Tail
+        weight: 1
+      - path: L_Wing1
+        weight: 1
+      - path: L_Wing2
+        weight: 1
+      - path: R_Tail
+        weight: 1
+      - path: R_Wing1
+        weight: 1
+      - path: R_Wing2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

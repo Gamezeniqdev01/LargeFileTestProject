@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 86d308040e6b9814ba3dd37000535c11
+timeCreated: 1481553744
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: f15_Door_Front
+    100004: f15_Door_Left
+    100006: f15_Door_Right
+    100008: f15_Fins_Back_Left
+    100010: f15_Fins_Back_Right
+    100012: f15_Fins_Wing_Left_01
+    100014: f15_Fins_Wing_Left_02
+    100016: f15_Fins_Wing_Right_01
+    100018: f15_Fins_Wing_Right_02
+    100020: f15_polySurface121
+    100022: f15_polySurface122
+    100024: f15_polySurface123
+    100026: f15_polySurface124
+    100028: f15_polySurface125
+    100030: f15_polySurface126
+    100032: f15_polySurface127
+    100034: f15_Rocket_Main_Left
+    100036: f15_Rocket_Main_Right
+    100038: f15_Rocket_Sides_Left_01
+    100040: f15_Rocket_Sides_Left_02
+    100042: f15_Rocket_Sides_Right_01
+    100044: f15_Rocket_Sides_Right_02
+    100046: B_L_Gear
+    100048: B_L_Gear_Cover
+    100050: B_R_Gear
+    100052: B_R_Gear_Cover
+    100054: Body
+    100056: F_Gear
+    100058: F_Gear_Cover
+    100060: L_Fin
+    100062: L_Heavy_Rocket
+    100064: L_Rocket1
+    100066: L_Rocket2
+    100068: L_Wing1
+    100070: L_Wing2
+    100072: R_Fin
+    100074: R_Heavy_Rocket
+    100076: R_Rocket1
+    100078: R_Rocket2
+    100080: R_Wing1
+    100082: R_Wing2
+    100084: Wheels
+    100086: Wheels 1
+    100088: Wheels 2
+    400000: //RootNode
+    400002: f15_Door_Front
+    400004: f15_Door_Left
+    400006: f15_Door_Right
+    400008: f15_Fins_Back_Left
+    400010: f15_Fins_Back_Right
+    400012: f15_Fins_Wing_Left_01
+    400014: f15_Fins_Wing_Left_02
+    400016: f15_Fins_Wing_Right_01
+    400018: f15_Fins_Wing_Right_02
+    400020: f15_polySurface121
+    400022: f15_polySurface122
+    400024: f15_polySurface123
+    400026: f15_polySurface124
+    400028: f15_polySurface125
+    400030: f15_polySurface126
+    400032: f15_polySurface127
+    400034: f15_Rocket_Main_Left
+    400036: f15_Rocket_Main_Right
+    400038: f15_Rocket_Sides_Left_01
+    400040: f15_Rocket_Sides_Left_02
+    400042: f15_Rocket_Sides_Right_01
+    400044: f15_Rocket_Sides_Right_02
+    400046: B_L_Gear
+    400048: B_L_Gear_Cover
+    400050: B_R_Gear
+    400052: B_R_Gear_Cover
+    400054: Body
+    400056: F_Gear
+    400058: F_Gear_Cover
+    400060: L_Fin
+    400062: L_Heavy_Rocket
+    400064: L_Rocket1
+    400066: L_Rocket2
+    400068: L_Wing1
+    400070: L_Wing2
+    400072: R_Fin
+    400074: R_Heavy_Rocket
+    400076: R_Rocket1
+    400078: R_Rocket2
+    400080: R_Wing1
+    400082: R_Wing2
+    400084: Wheels
+    400086: Wheels 1
+    400088: Wheels 2
+    2300000: f15_Door_Front
+    2300002: f15_Door_Left
+    2300004: f15_Door_Right
+    2300006: f15_Fins_Back_Left
+    2300008: f15_Fins_Back_Right
+    2300010: f15_Fins_Wing_Left_01
+    2300012: f15_Fins_Wing_Left_02
+    2300014: f15_Fins_Wing_Right_01
+    2300016: f15_Fins_Wing_Right_02
+    2300018: f15_polySurface121
+    2300020: f15_polySurface122
+    2300022: f15_polySurface123
+    2300024: f15_polySurface124
+    2300026: f15_polySurface125
+    2300028: f15_polySurface126
+    2300030: f15_polySurface127
+    2300032: f15_Rocket_Main_Left
+    2300034: f15_Rocket_Main_Right
+    2300036: f15_Rocket_Sides_Left_01
+    2300038: f15_Rocket_Sides_Left_02
+    2300040: f15_Rocket_Sides_Right_01
+    2300042: f15_Rocket_Sides_Right_02
+    2300044: B_L_Gear
+    2300046: B_L_Gear_Cover
+    2300048: B_R_Gear
+    2300050: B_R_Gear_Cover
+    2300052: Body
+    2300054: F_Gear
+    2300056: F_Gear_Cover
+    2300058: L_Fin
+    2300060: L_Heavy_Rocket
+    2300062: L_Rocket1
+    2300064: L_Rocket2
+    2300066: L_Wing1
+    2300068: L_Wing2
+    2300070: R_Fin
+    2300072: R_Heavy_Rocket
+    2300074: R_Rocket1
+    2300076: R_Rocket2
+    2300078: R_Wing1
+    2300080: R_Wing2
+    2300082: Wheels
+    2300084: Wheels 1
+    2300086: Wheels 2
+    3300000: f15_Door_Front
+    3300002: f15_Door_Left
+    3300004: f15_Door_Right
+    3300006: f15_Fins_Back_Left
+    3300008: f15_Fins_Back_Right
+    3300010: f15_Fins_Wing_Left_01
+    3300012: f15_Fins_Wing_Left_02
+    3300014: f15_Fins_Wing_Right_01
+    3300016: f15_Fins_Wing_Right_02
+    3300018: f15_polySurface121
+    3300020: f15_polySurface122
+    3300022: f15_polySurface123
+    3300024: f15_polySurface124
+    3300026: f15_polySurface125
+    3300028: f15_polySurface126
+    3300030: f15_polySurface127
+    3300032: f15_Rocket_Main_Left
+    3300034: f15_Rocket_Main_Right
+    3300036: f15_Rocket_Sides_Left_01
+    3300038: f15_Rocket_Sides_Left_02
+    3300040: f15_Rocket_Sides_Right_01
+    3300042: f15_Rocket_Sides_Right_02
+    3300044: B_L_Gear
+    3300046: B_L_Gear_Cover
+    3300048: B_R_Gear
+    3300050: B_R_Gear_Cover
+    3300052: Body
+    3300054: F_Gear
+    3300056: F_Gear_Cover
+    3300058: L_Fin
+    3300060: L_Heavy_Rocket
+    3300062: L_Rocket1
+    3300064: L_Rocket2
+    3300066: L_Wing1
+    3300068: L_Wing2
+    3300070: R_Fin
+    3300072: R_Heavy_Rocket
+    3300074: R_Rocket1
+    3300076: R_Rocket2
+    3300078: R_Wing1
+    3300080: R_Wing2
+    3300082: Wheels
+    3300084: Wheels 1
+    3300086: Wheels 2
+    4300000: f15_Fins_Back_Right
+    4300002: f15_Fins_Back_Left
+    4300004: f15_Fins_Wing_Right_01
+    4300006: f15_Fins_Wing_Right_02
+    4300008: f15_Fins_Wing_Left_01
+    4300010: f15_Fins_Wing_Left_02
+    4300012: f15_Rocket_Main_Right
+    4300014: f15_Rocket_Sides_Right_01
+    4300016: f15_Rocket_Sides_Right_02
+    4300018: f15_Rocket_Sides_Left_02
+    4300020: f15_Rocket_Sides_Left_01
+    4300022: f15_Door_Front
+    4300024: f15_Door_Right
+    4300026: f15_Door_Left
+    4300028: f15_Rocket_Main_Left
+    4300030: f15_polySurface121
+    4300032: f15_polySurface127
+    4300034: f15_polySurface126
+    4300036: f15_polySurface125
+    4300038: f15_polySurface124
+    4300040: f15_polySurface123
+    4300042: f15_polySurface122
+    4300044: R_Fin
+    4300046: L_Fin
+    4300048: R_Wing1
+    4300050: R_Wing2
+    4300052: L_Wing1
+    4300054: L_Wing2
+    4300056: R_Heavy_Rocket
+    4300058: R_Rocket1
+    4300060: R_Rocket2
+    4300062: L_Heavy_Rocket
+    4300064: L_Rocket2
+    4300066: L_Rocket1
+    4300068: F_Gear_Cover
+    4300070: B_R_Gear_Cover
+    4300072: B_L_Gear_Cover
+    4300074: Body
+    4300076: F_Gear
+    4300078: Wheels
+    4300080: B_R_Gear
+    4300082: Wheels
+    4300084: B_L_Gear
+    4300086: Wheels
+    7400000: roll_right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: roll_right
+      takeName: Take 001
+      firstFrame: 92
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_L_Gear
+        weight: 1
+      - path: B_L_Gear/Wheels
+        weight: 1
+      - path: B_L_Gear_Cover
+        weight: 1
+      - path: B_R_Gear
+        weight: 1
+      - path: B_R_Gear/Wheels 1
+        weight: 1
+      - path: B_R_Gear_Cover
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: F_Gear
+        weight: 1
+      - path: F_Gear/Wheels 2
+        weight: 1
+      - path: F_Gear_Cover
+        weight: 1
+      - path: L_Fin
+        weight: 1
+      - path: L_Heavy_Rocket
+        weight: 1
+      - path: L_Rocket1
+        weight: 1
+      - path: L_Rocket2
+        weight: 1
+      - path: L_Wing1
+        weight: 1
+      - path: L_Wing2
+        weight: 1
+      - path: R_Fin
+        weight: 1
+      - path: R_Heavy_Rocket
+        weight: 1
+      - path: R_Rocket1
+        weight: 1
+      - path: R_Rocket2
+        weight: 1
+      - path: R_Wing1
+        weight: 1
+      - path: R_Wing2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

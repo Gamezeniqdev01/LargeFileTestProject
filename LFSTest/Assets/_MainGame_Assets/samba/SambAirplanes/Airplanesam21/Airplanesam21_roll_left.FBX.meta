@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: c7f2a4644d22b7b4382e4e65c00d5b7f
+timeCreated: 1478191127
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: lockheed_Object006
+    100004: lockheed_Object009
+    100006: lockheed_Object010
+    100008: lockheed_Object012
+    100010: lockheed_Object013
+    100012: lockheed_Object014
+    100014: lockheed_Object016
+    100016: lockheed_Object017
+    100018: lockheed_polySurface1
+    100020: lockheed_polySurface2
+    100022: lockheed_polySurface3
+    100024: lockheed_polySurface4
+    100026: B_Wheel
+    100028: Body
+    100030: F_L_Wheel
+    100032: F_R_Wheel
+    100034: L_Fan
+    100036: L_Fin
+    100038: L_Tail
+    100040: L_Wing
+    100042: R_Fan
+    100044: R_Fin
+    100046: R_Tail
+    100048: R_Wing
+    400000: //RootNode
+    400002: lockheed_Object006
+    400004: lockheed_Object009
+    400006: lockheed_Object010
+    400008: lockheed_Object012
+    400010: lockheed_Object013
+    400012: lockheed_Object014
+    400014: lockheed_Object016
+    400016: lockheed_Object017
+    400018: lockheed_polySurface1
+    400020: lockheed_polySurface2
+    400022: lockheed_polySurface3
+    400024: lockheed_polySurface4
+    400026: B_Wheel
+    400028: Body
+    400030: F_L_Wheel
+    400032: F_R_Wheel
+    400034: L_Fan
+    400036: L_Fin
+    400038: L_Tail
+    400040: L_Wing
+    400042: R_Fan
+    400044: R_Fin
+    400046: R_Tail
+    400048: R_Wing
+    2300000: lockheed_Object006
+    2300002: lockheed_Object009
+    2300004: lockheed_Object010
+    2300006: lockheed_Object012
+    2300008: lockheed_Object013
+    2300010: lockheed_Object014
+    2300012: lockheed_Object016
+    2300014: lockheed_Object017
+    2300016: lockheed_polySurface1
+    2300018: lockheed_polySurface2
+    2300020: lockheed_polySurface3
+    2300022: lockheed_polySurface4
+    2300024: B_Wheel
+    2300026: Body
+    2300028: F_L_Wheel
+    2300030: F_R_Wheel
+    2300032: L_Fan
+    2300034: L_Fin
+    2300036: L_Tail
+    2300038: L_Wing
+    2300040: R_Fan
+    2300042: R_Fin
+    2300044: R_Tail
+    2300046: R_Wing
+    3300000: lockheed_Object006
+    3300002: lockheed_Object009
+    3300004: lockheed_Object010
+    3300006: lockheed_Object012
+    3300008: lockheed_Object013
+    3300010: lockheed_Object014
+    3300012: lockheed_Object016
+    3300014: lockheed_Object017
+    3300016: lockheed_polySurface1
+    3300018: lockheed_polySurface2
+    3300020: lockheed_polySurface3
+    3300022: lockheed_polySurface4
+    3300024: B_Wheel
+    3300026: Body
+    3300028: F_L_Wheel
+    3300030: F_R_Wheel
+    3300032: L_Fan
+    3300034: L_Fin
+    3300036: L_Tail
+    3300038: L_Wing
+    3300040: R_Fan
+    3300042: R_Fin
+    3300044: R_Tail
+    3300046: R_Wing
+    4300000: lockheed_Object006
+    4300002: lockheed_Object009
+    4300004: lockheed_Object010
+    4300006: lockheed_Object012
+    4300008: lockheed_Object013
+    4300010: lockheed_Object014
+    4300012: lockheed_Object016
+    4300014: lockheed_Object017
+    4300016: lockheed_polySurface1
+    4300018: lockheed_polySurface3
+    4300020: lockheed_polySurface4
+    4300022: lockheed_polySurface2
+    4300024: Body
+    4300026: F_R_Wheel
+    4300028: F_L_Wheel
+    4300030: B_Wheel
+    4300032: R_Fin
+    4300034: L_Fin
+    4300036: L_Fan
+    4300038: R_Fan
+    4300040: R_Wing
+    4300042: L_Wing
+    4300044: R_Tail
+    4300046: L_Tail
+    7400000: roll_left
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: roll_left
+      takeName: Take 001
+      firstFrame: 92
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_Wheel
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: F_L_Wheel
+        weight: 1
+      - path: F_R_Wheel
+        weight: 1
+      - path: L_Fan
+        weight: 1
+      - path: L_Fin
+        weight: 1
+      - path: L_Tail
+        weight: 1
+      - path: L_Wing
+        weight: 1
+      - path: R_Fan
+        weight: 1
+      - path: R_Fin
+        weight: 1
+      - path: R_Tail
+        weight: 1
+      - path: R_Wing
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

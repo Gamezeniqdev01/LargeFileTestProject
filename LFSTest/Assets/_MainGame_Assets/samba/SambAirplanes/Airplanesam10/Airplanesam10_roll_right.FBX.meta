@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 8e14ca518fb22324294219afeb3d5d24
+timeCreated: 1480263604
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Concorde_body
+    100002: //RootNode
+    100004: Concorde_Fins_Wings_Left
+    100006: Concorde_Fins_Wings_Right
+    100008: Concorde_Front
+    100010: Concorde_polySurface46
+    100012: Concorde_polySurface47
+    100014: Concorde_polySurface48
+    100016: Concorde_polySurface51
+    100018: Concorde_polySurface52
+    100020: Concorde_polySurface53
+    100022: Concorde_polySurface55
+    100024: Concorde_polySurface57
+    100026: Concorde_Wheels_Doors_BackLeft
+    100028: Concorde_Wheels_Doors_BackRight
+    100030: Concorde_Wheels_Doors_Front
+    100032: B_L_Gear
+    100034: B_L_Gear_Cover
+    100036: B_R_Gear
+    100038: B_R_Gear_Cover
+    100040: Body
+    100042: F_Body
+    100044: F_Gear
+    100046: F_Gear_Cover
+    100048: L_Wing
+    100050: R_Wing
+    100052: Wheels
+    100054: Wheels1
+    100056: Wheels1 1
+    100058: Wheels2
+    100060: Wheels2 1
+    400000: Concorde_body
+    400002: //RootNode
+    400004: Concorde_Fins_Wings_Left
+    400006: Concorde_Fins_Wings_Right
+    400008: Concorde_Front
+    400010: Concorde_polySurface46
+    400012: Concorde_polySurface47
+    400014: Concorde_polySurface48
+    400016: Concorde_polySurface51
+    400018: Concorde_polySurface52
+    400020: Concorde_polySurface53
+    400022: Concorde_polySurface55
+    400024: Concorde_polySurface57
+    400026: Concorde_Wheels_Doors_BackLeft
+    400028: Concorde_Wheels_Doors_BackRight
+    400030: Concorde_Wheels_Doors_Front
+    400032: B_L_Gear
+    400034: B_L_Gear_Cover
+    400036: B_R_Gear
+    400038: B_R_Gear_Cover
+    400040: Body
+    400042: F_Body
+    400044: F_Gear
+    400046: F_Gear_Cover
+    400048: L_Wing
+    400050: R_Wing
+    400052: Wheels
+    400054: Wheels1
+    400056: Wheels1 1
+    400058: Wheels2
+    400060: Wheels2 1
+    2300000: Concorde_body
+    2300002: Concorde_Fins_Wings_Left
+    2300004: Concorde_Fins_Wings_Right
+    2300006: Concorde_Front
+    2300008: Concorde_polySurface46
+    2300010: Concorde_polySurface47
+    2300012: Concorde_polySurface48
+    2300014: Concorde_polySurface51
+    2300016: Concorde_polySurface52
+    2300018: Concorde_polySurface53
+    2300020: Concorde_polySurface55
+    2300022: Concorde_polySurface57
+    2300024: Concorde_Wheels_Doors_BackLeft
+    2300026: Concorde_Wheels_Doors_BackRight
+    2300028: Concorde_Wheels_Doors_Front
+    2300030: B_L_Gear
+    2300032: B_L_Gear_Cover
+    2300034: B_R_Gear
+    2300036: B_R_Gear_Cover
+    2300038: Body
+    2300040: F_Body
+    2300042: F_Gear
+    2300044: F_Gear_Cover
+    2300046: L_Wing
+    2300048: R_Wing
+    2300050: Wheels
+    2300052: Wheels1
+    2300054: Wheels1 1
+    2300056: Wheels2
+    2300058: Wheels2 1
+    3300000: Concorde_body
+    3300002: Concorde_Fins_Wings_Left
+    3300004: Concorde_Fins_Wings_Right
+    3300006: Concorde_Front
+    3300008: Concorde_polySurface46
+    3300010: Concorde_polySurface47
+    3300012: Concorde_polySurface48
+    3300014: Concorde_polySurface51
+    3300016: Concorde_polySurface52
+    3300018: Concorde_polySurface53
+    3300020: Concorde_polySurface55
+    3300022: Concorde_polySurface57
+    3300024: Concorde_Wheels_Doors_BackLeft
+    3300026: Concorde_Wheels_Doors_BackRight
+    3300028: Concorde_Wheels_Doors_Front
+    3300030: B_L_Gear
+    3300032: B_L_Gear_Cover
+    3300034: B_R_Gear
+    3300036: B_R_Gear_Cover
+    3300038: Body
+    3300040: F_Body
+    3300042: F_Gear
+    3300044: F_Gear_Cover
+    3300046: L_Wing
+    3300048: R_Wing
+    3300050: Wheels
+    3300052: Wheels1
+    3300054: Wheels1 1
+    3300056: Wheels2
+    3300058: Wheels2 1
+    4300000: Concorde_body
+    4300002: Concorde_Fins_Wings_Left
+    4300004: Concorde_Fins_Wings_Right
+    4300006: Concorde_Front
+    4300008: Concorde_Wheels_Doors_Front
+    4300010: Concorde_Wheels_Doors_BackRight
+    4300012: Concorde_Wheels_Doors_BackLeft
+    4300014: Concorde_polySurface57
+    4300016: Concorde_polySurface55
+    4300018: Concorde_polySurface53
+    4300020: Concorde_polySurface52
+    4300022: Concorde_polySurface51
+    4300024: Concorde_polySurface48
+    4300026: Concorde_polySurface47
+    4300028: Concorde_polySurface46
+    4300030: Body
+    4300032: L_Wing
+    4300034: R_Wing
+    4300036: F_Body
+    4300038: F_Gear_Cover
+    4300040: B_R_Gear_Cover
+    4300042: B_L_Gear_Cover
+    4300044: B_R_Gear
+    4300046: Wheels1
+    4300048: Wheels2
+    4300050: B_L_Gear
+    4300052: Wheels1
+    4300054: Wheels2
+    4300056: F_Gear
+    4300058: Wheels
+    7400000: roll_right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: roll_right
+      takeName: Take 001
+      firstFrame: 92
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_L_Gear
+        weight: 1
+      - path: B_L_Gear/Wheels1
+        weight: 1
+      - path: B_L_Gear/Wheels2
+        weight: 1
+      - path: B_L_Gear_Cover
+        weight: 1
+      - path: B_R_Gear
+        weight: 1
+      - path: B_R_Gear/Wheels1 1
+        weight: 1
+      - path: B_R_Gear/Wheels2 1
+        weight: 1
+      - path: B_R_Gear_Cover
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: F_Body
+        weight: 1
+      - path: F_Gear
+        weight: 1
+      - path: F_Gear/Wheels
+        weight: 1
+      - path: F_Gear_Cover
+        weight: 1
+      - path: L_Wing
+        weight: 1
+      - path: R_Wing
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

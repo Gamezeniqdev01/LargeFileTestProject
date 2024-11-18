@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: water surf
+  m_Shader: {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap1
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 500, y: 500}
+        m_Offset: {x: 1, y: 1}
+    - first:
+        name: _BumpMap2
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 500, y: 500}
+        m_Offset: {x: 2, y: 1}
+    - first:
+        name: _DistortionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0, y: 0}
+        m_Offset: {x: 2, y: 1}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: f51c201a461c605439b5b39870830b1d, type: 3}
+        m_Scale: {x: 150, y: 150}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Reflection
+      second:
+        m_Texture: {fileID: 8900000, guid: 2e844935db7395b49b7ce8556f47bdfc, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Texture1
+      second:
+        m_Texture: {fileID: 2800000, guid: 5a3310a7dbd2bf84abbfa060df493f4f, type: 3}
+        m_Scale: {x: 100, y: 100}
+        m_Offset: {x: 1, y: 1}
+    - first:
+        name: _Texture2
+      second:
+        m_Texture: {fileID: 2800000, guid: 5a3310a7dbd2bf84abbfa060df493f4f, type: 3}
+        m_Scale: {x: 100, y: 100}
+        m_Offset: {x: 1, y: 1}
+    m_Floats:
+    - first:
+        name: _Bump1Speed
+      second: 0
+    - first:
+        name: _Bump2Speed
+      second: 0
+    - first:
+        name: _DistortionPower
+      second: 0.013
+    - first:
+        name: _DistortionSpeed
+      second: 0
+    - first:
+        name: _Gloss
+      second: 1.225
+    - first:
+        name: _MainTexSpeed
+      second: 0
+    - first:
+        name: _Opacity
+      second: 0.7821428
+    - first:
+        name: _ReflectPower
+      second: 0.25
+    - first:
+        name: _Specular
+      second: 5.375
+    - first:
+        name: _Texture2Speed
+      second: 0
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.5955882, g: 0.5955882, b: 0.5955882, a: 1}

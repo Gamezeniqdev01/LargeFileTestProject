@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: aa9b035ae3dec594094cde09df4daec6
+timeCreated: 1517838845
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baplanebw1
+    100002: baplanebw2
+    100004: baplanebw3
+    100006: baplanebw4
+    100008: baplanefw
+    100010: //RootNode
+    100012: samba_Baplane
+    100014: back centre wing
+    100016: back left joint
+    100018: back left wing
+    100020: back right joint
+    100022: back right wing
+    100024: front joint
+    100026: wing left
+    100028: wing right
+    400000: baplanebw1
+    400002: baplanebw2
+    400004: baplanebw3
+    400006: baplanebw4
+    400008: baplanefw
+    400010: //RootNode
+    400012: samba_Baplane
+    400014: back centre wing
+    400016: back left joint
+    400018: back left wing
+    400020: back right joint
+    400022: back right wing
+    400024: front joint
+    400026: wing left
+    400028: wing right
+    2300000: baplanebw1
+    2300002: baplanebw2
+    2300004: baplanebw3
+    2300006: baplanebw4
+    2300008: baplanefw
+    2300010: samba_Baplane
+    2300012: back centre wing
+    2300014: back left joint
+    2300016: back left wing
+    2300018: back right joint
+    2300020: back right wing
+    2300022: front joint
+    2300024: wing left
+    2300026: wing right
+    3300000: baplanebw1
+    3300002: baplanebw2
+    3300004: baplanebw3
+    3300006: baplanebw4
+    3300008: baplanefw
+    3300010: samba_Baplane
+    3300012: back centre wing
+    3300014: back left joint
+    3300016: back left wing
+    3300018: back right joint
+    3300020: back right wing
+    3300022: front joint
+    3300024: wing left
+    3300026: wing right
+    4300000: samba_Baplane
+    4300002: baplanefw
+    4300004: baplanebw1
+    4300006: baplanebw2
+    4300008: baplanebw3
+    4300010: baplanebw4
+    4300012: front joint
+    4300014: back left joint
+    4300016: back right joint
+    4300018: wing left
+    4300020: wing right
+    4300022: back left wing
+    4300024: back right wing
+    4300026: back centre wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

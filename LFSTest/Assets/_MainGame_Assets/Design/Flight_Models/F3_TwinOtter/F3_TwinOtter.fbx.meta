@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: db6ba4ae402e4ce4d82a1dbf7cc201cf
+timeCreated: 1464071288
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B_Wing
+    100002: //RootNode
+    100004: F3_TwinOtter_Ext
+    100006: F_Tyre
+    100008: F_Tyre_Holder
+    100010: L_Door_01
+    100012: L_Door_02
+    100014: L_Propeller
+    100016: L_Tyre
+    100018: L_Tyre_Holder
+    100020: L_Wing_01
+    100022: L_Wing_02
+    100024: L_Wing_03
+    100026: LB_Wing
+    100028: R_Door_01
+    100030: R_Door_02
+    100032: R_Propeller
+    100034: R_Tyre
+    100036: R_Tyre_Holder
+    100038: R_Wing_01
+    100040: R_Wing_02
+    100042: R_Wing_03
+    100044: RB_Wing
+    100046: Steer_Control1
+    100048: Steer_Control2
+    400000: B_Wing
+    400002: //RootNode
+    400004: F3_TwinOtter_Ext
+    400006: F_Tyre
+    400008: F_Tyre_Holder
+    400010: L_Door_01
+    400012: L_Door_02
+    400014: L_Propeller
+    400016: L_Tyre
+    400018: L_Tyre_Holder
+    400020: L_Wing_01
+    400022: L_Wing_02
+    400024: L_Wing_03
+    400026: LB_Wing
+    400028: R_Door_01
+    400030: R_Door_02
+    400032: R_Propeller
+    400034: R_Tyre
+    400036: R_Tyre_Holder
+    400038: R_Wing_01
+    400040: R_Wing_02
+    400042: R_Wing_03
+    400044: RB_Wing
+    400046: Steer_Control1
+    400048: Steer_Control2
+    2300000: B_Wing
+    2300002: F3_TwinOtter_Ext
+    2300004: F_Tyre
+    2300006: F_Tyre_Holder
+    2300008: L_Door_01
+    2300010: L_Door_02
+    2300012: L_Propeller
+    2300014: L_Tyre
+    2300016: L_Tyre_Holder
+    2300018: L_Wing_01
+    2300020: L_Wing_02
+    2300022: L_Wing_03
+    2300024: LB_Wing
+    2300026: R_Door_01
+    2300028: R_Door_02
+    2300030: R_Propeller
+    2300032: R_Tyre
+    2300034: R_Tyre_Holder
+    2300036: R_Wing_01
+    2300038: R_Wing_02
+    2300040: R_Wing_03
+    2300042: RB_Wing
+    2300044: Steer_Control1
+    2300046: Steer_Control2
+    3300000: B_Wing
+    3300002: F3_TwinOtter_Ext
+    3300004: F_Tyre
+    3300006: F_Tyre_Holder
+    3300008: L_Door_01
+    3300010: L_Door_02
+    3300012: L_Propeller
+    3300014: L_Tyre
+    3300016: L_Tyre_Holder
+    3300018: L_Wing_01
+    3300020: L_Wing_02
+    3300022: L_Wing_03
+    3300024: LB_Wing
+    3300026: R_Door_01
+    3300028: R_Door_02
+    3300030: R_Propeller
+    3300032: R_Tyre
+    3300034: R_Tyre_Holder
+    3300036: R_Wing_01
+    3300038: R_Wing_02
+    3300040: R_Wing_03
+    3300042: RB_Wing
+    3300044: Steer_Control1
+    3300046: Steer_Control2
+    4300000: Steer_Control1
+    4300002: Steer_Control2
+    4300004: B_Wing
+    4300006: RB_Wing
+    4300008: R_Wing_03
+    4300010: R_Wing_02
+    4300012: R_Wing_01
+    4300014: LB_Wing
+    4300016: L_Wing_03
+    4300018: L_Wing_02
+    4300020: L_Wing_01
+    4300022: R_Door_02
+    4300024: R_Door_01
+    4300026: L_Door_01
+    4300028: L_Door_02
+    4300030: F3_TwinOtter_Ext
+    4300032: L_Propeller
+    4300034: R_Propeller
+    4300036: L_Tyre_Holder
+    4300038: L_Tyre
+    4300040: R_Tyre_Holder
+    4300042: R_Tyre
+    4300044: F_Tyre_Holder
+    4300046: F_Tyre
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

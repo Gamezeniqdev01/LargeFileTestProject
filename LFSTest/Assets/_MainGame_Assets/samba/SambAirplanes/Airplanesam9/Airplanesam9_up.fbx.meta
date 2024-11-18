@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 3c71a0c85daf8f84bbe4aef7a759e484
+timeCreated: 1480274280
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ConsolidatedPBY_Object004
+    100004: ConsolidatedPBY_Object007
+    100006: ConsolidatedPBY_Object008
+    100008: ConsolidatedPBY_Object009
+    100010: ConsolidatedPBY_Object010
+    100012: ConsolidatedPBY_Object011
+    100014: ConsolidatedPBY_Object012
+    100016: ConsolidatedPBY_Object013
+    100018: ConsolidatedPBY_Object014
+    100020: ConsolidatedPBY_Object015
+    100022: ConsolidatedPBY_Object016
+    100024: ConsolidatedPBY_Object017
+    100026: ConsolidatedPBY_olySurface21
+    100028: ConsolidatedPBY_polySurface18
+    100030: ConsolidatedPBY_polySurface20
+    100032: group1
+    100034: group2
+    100036: joint1
+    100038: joint2
+    100040: joint3
+    100042: joint4
+    100044: joint5
+    100046: joint6
+    100048: joint7
+    100050: joint8
+    100052: B_L_Gear
+    100054: B_L_Wheel
+    100056: B_L_Wheel 1
+    100058: B_R_Gear
+    100060: B_R_Wheel
+    100062: B_R_Wheel 1
+    100064: Body
+    100066: F_Gear
+    100068: F_L_Gear_Cover
+    100070: F_R_Gear_Cover
+    100072: Fin
+    100074: L_Fan
+    100076: L_Tail
+    100078: R_Fan
+    100080: R_Tail
+    100082: Wheel
+    100084: Wing
+    400000: //RootNode
+    400002: ConsolidatedPBY_Object004
+    400004: ConsolidatedPBY_Object007
+    400006: ConsolidatedPBY_Object008
+    400008: ConsolidatedPBY_Object009
+    400010: ConsolidatedPBY_Object010
+    400012: ConsolidatedPBY_Object011
+    400014: ConsolidatedPBY_Object012
+    400016: ConsolidatedPBY_Object013
+    400018: ConsolidatedPBY_Object014
+    400020: ConsolidatedPBY_Object015
+    400022: ConsolidatedPBY_Object016
+    400024: ConsolidatedPBY_Object017
+    400026: ConsolidatedPBY_olySurface21
+    400028: ConsolidatedPBY_polySurface18
+    400030: ConsolidatedPBY_polySurface20
+    400032: group1
+    400034: group2
+    400036: joint1
+    400038: joint2
+    400040: joint3
+    400042: joint4
+    400044: joint5
+    400046: joint6
+    400048: joint7
+    400050: joint8
+    400052: B_L_Gear
+    400054: B_L_Wheel
+    400056: B_L_Wheel 1
+    400058: B_R_Gear
+    400060: B_R_Wheel
+    400062: B_R_Wheel 1
+    400064: Body
+    400066: F_Gear
+    400068: F_L_Gear_Cover
+    400070: F_R_Gear_Cover
+    400072: Fin
+    400074: L_Fan
+    400076: L_Tail
+    400078: R_Fan
+    400080: R_Tail
+    400082: Wheel
+    400084: Wing
+    2300000: ConsolidatedPBY_Object004
+    2300002: ConsolidatedPBY_Object007
+    2300004: ConsolidatedPBY_Object008
+    2300006: ConsolidatedPBY_Object009
+    2300008: ConsolidatedPBY_Object010
+    2300010: ConsolidatedPBY_Object011
+    2300012: ConsolidatedPBY_Object012
+    2300014: ConsolidatedPBY_Object015
+    2300016: ConsolidatedPBY_Object016
+    2300018: ConsolidatedPBY_Object017
+    2300020: ConsolidatedPBY_olySurface21
+    2300022: ConsolidatedPBY_polySurface18
+    2300024: ConsolidatedPBY_polySurface20
+    2300026: B_L_Wheel 1
+    2300028: B_R_Wheel 1
+    2300030: Body
+    2300032: F_Gear
+    2300034: F_L_Gear_Cover
+    2300036: F_R_Gear_Cover
+    2300038: Fin
+    2300040: L_Fan
+    2300042: L_Tail
+    2300044: R_Fan
+    2300046: R_Tail
+    2300048: Wheel
+    2300050: Wing
+    3300000: ConsolidatedPBY_Object004
+    3300002: ConsolidatedPBY_Object007
+    3300004: ConsolidatedPBY_Object008
+    3300006: ConsolidatedPBY_Object009
+    3300008: ConsolidatedPBY_Object010
+    3300010: ConsolidatedPBY_Object011
+    3300012: ConsolidatedPBY_Object012
+    3300014: ConsolidatedPBY_Object015
+    3300016: ConsolidatedPBY_Object016
+    3300018: ConsolidatedPBY_Object017
+    3300020: ConsolidatedPBY_olySurface21
+    3300022: ConsolidatedPBY_polySurface18
+    3300024: ConsolidatedPBY_polySurface20
+    3300026: B_L_Wheel 1
+    3300028: B_R_Wheel 1
+    3300030: Body
+    3300032: F_Gear
+    3300034: F_L_Gear_Cover
+    3300036: F_R_Gear_Cover
+    3300038: Fin
+    3300040: L_Fan
+    3300042: L_Tail
+    3300044: R_Fan
+    3300046: R_Tail
+    3300048: Wheel
+    3300050: Wing
+    4300000: ConsolidatedPBY_Object004
+    4300002: ConsolidatedPBY_Object007
+    4300004: ConsolidatedPBY_Object008
+    4300006: ConsolidatedPBY_Object009
+    4300008: ConsolidatedPBY_Object013
+    4300010: ConsolidatedPBY_Object014
+    4300012: ConsolidatedPBY_Object015
+    4300014: ConsolidatedPBY_Object012
+    4300016: ConsolidatedPBY_Object016
+    4300018: ConsolidatedPBY_Object017
+    4300020: ConsolidatedPBY_polySurface18
+    4300022: ConsolidatedPBY_polySurface20
+    4300024: ConsolidatedPBY_olySurface21
+    4300026: ConsolidatedPBY_Object011
+    4300028: ConsolidatedPBY_Object010
+    4300030: L_Fan
+    4300032: R_Fan
+    4300034: Fin
+    4300036: Wing
+    4300038: B_L_Gear
+    4300040: B_R_Gear
+    4300042: F_Gear
+    4300044: Wheel
+    4300046: F_L_Gear_Cover
+    4300048: F_R_Gear_Cover
+    4300050: R_Tail
+    4300052: L_Tail
+    4300054: Body
+    4300056: B_R_Wheel
+    4300058: B_L_Wheel
+    7400000: up
+    9500000: //RootNode
+    13700000: ConsolidatedPBY_Object013
+    13700002: ConsolidatedPBY_Object014
+    13700004: B_L_Gear
+    13700006: B_R_Gear
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: up
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_L_Gear
+        weight: 1
+      - path: B_R_Gear
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: F_Gear
+        weight: 1
+      - path: F_Gear/Wheel
+        weight: 1
+      - path: F_L_Gear_Cover
+        weight: 1
+      - path: F_R_Gear_Cover
+        weight: 1
+      - path: Fin
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/B_R_Wheel
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/B_R_Wheel/B_R_Wheel 1
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint6
+        weight: 1
+      - path: joint5/joint6/joint7
+        weight: 1
+      - path: joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint5/joint6/joint7/joint8/B_L_Wheel
+        weight: 1
+      - path: joint5/joint6/joint7/joint8/B_L_Wheel/B_L_Wheel 1
+        weight: 1
+      - path: L_Fan
+        weight: 1
+      - path: L_Tail
+        weight: 1
+      - path: R_Fan
+        weight: 1
+      - path: R_Tail
+        weight: 1
+      - path: Wing
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
